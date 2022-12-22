@@ -1,0 +1,24 @@
+body
+{
+  background-image: url('Main.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.coolbox {
+  margin: 15px;
+  text-align: center;
+  border-color: aqua;
+  border-radius: 25px;
+  width: 300px;
+  color: white;
+  border: solid;
+  height: 350px;
+}
+.title {
+    text-align: center;
+    top: 50%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    overflow-y: scroll;
+}
